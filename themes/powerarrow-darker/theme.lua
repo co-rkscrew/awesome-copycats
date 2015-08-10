@@ -7,7 +7,7 @@
 
 theme                               = {}
 
-themes_dir                          = os.getenv("HOME") .. "/.config/awesome/themes/powerarrow-darker"
+themes_dir                          = "/etc/xdg/cscrew-awesome/awesome-copycats/themes/powerarrow-darker"
 theme.wallpaper                     = themes_dir .. "/wall.png"
 
 theme.font                          = "Terminus 9"

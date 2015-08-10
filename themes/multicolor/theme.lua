@@ -8,7 +8,7 @@
 
 theme                               = {}
 
-theme.confdir                       = os.getenv("HOME") .. "/.config/awesome/themes/multicolor"
+theme.confdir                       = "/etc/xdg/cscrew-awesome/awesome-copycats/themes/multicolor"
 theme.wallpaper                     = theme.confdir .. "/wall.png"
 
 theme.font                          = "Terminus 8"

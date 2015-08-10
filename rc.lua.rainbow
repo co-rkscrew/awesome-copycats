@@ -55,7 +55,7 @@ run_once("unclutter -root")
 -- {{{ Variable definitions
 
 -- beautiful init
-beautiful.init(os.getenv("HOME") .. "/.config/awesome/themes/rainbow/theme.lua")
+beautiful.init("/etc/xdg/cscrew-awesome/awesome-copycats/themes/rainbow/theme.lua")
 
 -- common
 modkey     = "Mod4"

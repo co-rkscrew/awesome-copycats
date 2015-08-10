@@ -7,7 +7,7 @@
 
 theme                                           = {}
 
-theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/copland"
+theme.dir                                       = "/etc/xdg/cscrew-awesome/awesome-copycats/themes/copland"
 theme.wallpaper                                 = theme.dir .. "/wall.png"
 
 theme.font                                      = "Tamsyn 10.5"
